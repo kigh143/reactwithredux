@@ -20,15 +20,21 @@ The types.d.ts file is a types declaration file used to define the common types 
 
 ### File with redux persist configurations
 
-Inside the "app/store.ts" file, we import all the redux persist from line 8 to 17. Then we defined the redux persist option on line 23. on line 28 we define the persistedReducer and passit to the reduce in the configureStore as an option.
+Inside the **app/store.ts** file, we import all the redux persist from line 8 to 17. Then we defined the redux persist option on line 23. on line 28 we define the persistedReducer and pass it to the reduce in the configureStore as an option.
 
 ### Files with React-helmet
 
-in the features/counter/counterPage we import the react helmet library and we define the the title in the helmet tags line 12 to 16.
+in the **features/counter/counterPage** we import the react helmet library and we define the the title in the helmet tags line 12 to 16.
 
 ### Files with React-helmet
 
-in the features/counter/counterPage we import the react helmet library and we define the the title in the helmet tags line 12 to 16.
+in the **features/counter/counterPage** we import the react helmet library and we define the the title in the helmet tags line 12 to 16.
+
+## Folder structure
+
+1. **./features** place where to add the different features of the application
+2. **./app** the location to add all the redux logic including the store and the hooks
+3. **./components** all the common/reusable components bits of the application
 
 ## Learn More
 

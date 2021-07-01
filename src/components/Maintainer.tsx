@@ -28,7 +28,7 @@ const Maintainer: React.FC = () => {
         target="_blank"
         rel="noreferrer"
       >
-        Lets connect
+        <small>Let's connect for help to use this template.</small>
       </a>
     </div>
   );
