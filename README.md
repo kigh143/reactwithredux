@@ -4,11 +4,11 @@ I use this template to bootstrap my react js application. If you want to use it 
 
 ## Technologies used in this template
 
-1.ReduxToolkit : This is to help with state management.
-2.Redux Persist : This helps us persist our state in a local storage.
-3.TypeScript : Helps write predicable, clean and testable code.
-4.React router dom : To handel navigation.
-5.React-helmet : For handling our website Search Engine Optimization.
+1. ReduxToolkit : This is to help with state management.
+2. Redux Persist : This helps us persist our state in a local storage.
+3. TypeScript : Helps write predicable, clean and testable code.
+4. React router dom : To handel navigation.
+5. React-helmet : For handling our website Search Engine Optimization.
 
 ### Files for setting up redux toolkit
 
