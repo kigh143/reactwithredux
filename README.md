@@ -4,11 +4,11 @@ I use this template to bootstrap my react js application. If you want to use it 
 
 ## Technologies used in this template
 
-ReduxToolkit : This is to help with state management.
-Redux Persist : This helps us persist our state in a local storage.
-TypeScript : Helps write predicable, clean and testable code.
-React router dom : To handel navigation.
-React-helmet : For handling our website Search Engine Optimization.
+1.ReduxToolkit : This is to help with state management.
+2.Redux Persist : This helps us persist our state in a local storage.
+3.TypeScript : Helps write predicable, clean and testable code.
+4.React router dom : To handel navigation.
+5.React-helmet : For handling our website Search Engine Optimization.
 
 ### Files for setting up redux toolkit
 
@@ -20,7 +20,7 @@ The types.d.ts file is a types declaration file used to define the common types 
 
 ### File with redux persist configurations
 
-Inside the app/store.ts file, we import all the redux persist from line 8 to 17. Then we defined the redux persist option on line 23. on line 28 we define the persistedReducer and passit to the reduce in the configureStore as an option.
+Inside the "app/store.ts" file, we import all the redux persist from line 8 to 17. Then we defined the redux persist option on line 23. on line 28 we define the persistedReducer and passit to the reduce in the configureStore as an option.
 
 ### Files with React-helmet
 
