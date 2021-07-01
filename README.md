@@ -1,6 +1,6 @@
 # React template
 
-I use this template to bootstrap my react js application. A template for teams, If you want to use it just clone and start playing. I will explain how to use it step by step.
+I use this template to bootstrap my react js application. A template for teams, If you want to use it just clone and start playing. I will explain how to use it step by step. [use this template to create your new repository, follow the steps here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template)
 
 ## Technologies used in this template
 
