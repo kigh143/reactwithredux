@@ -1,6 +1,6 @@
-# React boiler plate
+# React template
 
-I use this template to bootstrap my react js application. If you want to use it just clone and start playing. I will explain how to use it step by step.
+I use this template to bootstrap my react js application. A template for teams, If you want to use it just clone and start playing. I will explain how to use it step by step.
 
 ## Technologies used in this template
 
