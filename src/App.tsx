@@ -1,10 +1,9 @@
 import React from "react";
 import { useAppDispatch, useAppSelector } from "./app/hooks";
 import { incremented, decremented } from "./features/counter/counterSlice";
-import "./App.css";
 
 function App() {
-  const count = useAppSelector((state) => state.counter.value);
+  const count = useAppSelector((state) => state.persistedReducer.counter.value);
   const dispatch = useAppDispatch();
   return (
     <div className="App">
