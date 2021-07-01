@@ -1,5 +1,5 @@
 import React from "react";
-import { useAppDispatch, useAppSelector } from "./app/hook";
+import { useAppDispatch, useAppSelector } from "./app/hooks";
 import { incremented, decremented } from "./features/counter/counterSlice";
 import "./App.css";
 
